@@ -1,0 +1,30 @@
+.container {
+    font-size: 16px;
+    height: 100%;
+    width: 100%;
+    pointer-events: none;
+}
+
+.game-controls-container {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.action-button {
+    height: 25%;
+    width: 50px;
+    border-radius: 50%;
+    pointer-events: auto;
+    
+}
+
+.action-button-icon {
+    height: 100%;
+    width: 100%;
+}

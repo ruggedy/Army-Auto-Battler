@@ -1,0 +1,34 @@
+{
+    "name": "PlayerInput",
+    "maps": [
+        {
+            "name": "General",
+            "id": "fc3b8254-0f0c-4215-ba17-c84b02c347f4",
+            "actions": [
+                {
+                    "name": "MoveAgents",
+                    "type": "Button",
+                    "id": "01e5a447-73a3-493f-abc9-a10eb27ed05c",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "fc5bf7e4-88ba-451c-92d1-b20dd094d351",
+                    "path": "<Keyboard>/space",
+                    "interactions": "Tap",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MoveAgents",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

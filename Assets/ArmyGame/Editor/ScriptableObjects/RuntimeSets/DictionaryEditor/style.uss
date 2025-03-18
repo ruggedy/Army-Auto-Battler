@@ -1,0 +1,74 @@
+.add-icon {
+    align-self: flex-end;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.update-container-label {
+    flex-grow: 1;
+    align-content: stretch;
+    flex-basis: auto;
+    flex-wrap: nowrap;
+    -unity-font-style: bold;
+    -unity-text-align: upper-center;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    align-self: center;
+}
+
+.update-container {
+    display: none;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    align-items: center;
+    justify-content: flex-start;
+    align-content: flex-start;
+    align-self: stretch;
+    flex-basis: 100px;
+}
+
+.update-field {
+    flex-grow: 1;
+    flex-basis: auto;
+    align-self: stretch;
+}
+
+.update-field > Label {
+    width: 30px;
+    flex-basis: 20px;
+}
+
+.button-container {
+    flex-grow: 1;
+    align-self: stretch;
+    height: auto;
+    flex-direction: row;
+    justify-content: space-between;
+    min-height: auto;
+    align-content: flex-start;
+    align-items: center;
+    margin-top: 10px;
+    width: auto;
+    flex-shrink: 0;
+    flex-wrap: nowrap;
+}
+
+.button {
+    align-self: flex-start;
+    margin-right: 0;
+    flex-grow: 0;
+    margin-left: 0;
+    margin-top: 0;
+    justify-content: flex-start;
+    flex-shrink: 0;
+}

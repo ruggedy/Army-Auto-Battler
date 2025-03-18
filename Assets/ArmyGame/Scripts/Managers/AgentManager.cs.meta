@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b3708b2835a2476b89af6fe0a5a7b3c6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - channel: {fileID: 11400000, guid: 0de912d2b436c4b89a719e6ef0c579b0, type: 2}
+  - zones: {fileID: 11400000, guid: 7c0ce215be3e6422f9b86a8311c29788, type: 2}
+  - playerAgentType: {fileID: 11400000, guid: 7b16f5d15767a47e480691e0c1673d38, type: 2}
+  - enemyAgentType: {fileID: 11400000, guid: 134430f230b6d4ac2b1d30174ab08b6b, type: 2}
+  - playerAgents: {instanceID: 0}
+  - enemyAgents: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

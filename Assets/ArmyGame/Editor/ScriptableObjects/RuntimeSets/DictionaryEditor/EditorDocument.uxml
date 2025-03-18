@@ -1,0 +1,16 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/ArmyGame/Editor/ScriptableObjects/Units/UnitsSetSoEditor/style.uss?fileID=7433441132597879392&amp;guid=d815871557e4a4ddf8db34cf80703607&amp;type=3#style" />
+    <engine:Foldout text="Units" name="Foldout" tooltip="Add Units scriptable object an prefab" toggle-on-label-click="false">
+        <engine:Button text="+" name="ADD_ICON_BUTTON" class="add-icon" style="height: 17px; width: 27px;" />
+        <engine:MultiColumnListView show-foldout-header="false">
+            <engine:Columns />
+        </engine:MultiColumnListView>
+        <engine:VisualElement name="ADD_NEW_PAIR_SECTION" class="update-container" style="flex-grow: 1; justify-content: flex-start; flex-wrap: nowrap; flex-direction: column; align-items: auto;">
+            <engine:Label text="Add  new key/value pair" enable-rich-text="false" class="update-container-label" style="height: 34px; flex-basis: auto;" />
+            <engine:VisualElement class="button-container" style="flex-grow: 1; height: 28px; flex-basis: auto; align-items: auto;">
+                <engine:Button text="DISMISS" name="DISMISS_BUTTON" class="button" />
+                <engine:Button text="ADD&#10;" name="ADD_NEW_PAIR_BUTTON" class="update-button" style="align-self: flex-start; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0;" />
+            </engine:VisualElement>
+        </engine:VisualElement>
+    </engine:Foldout>
+</engine:UXML>

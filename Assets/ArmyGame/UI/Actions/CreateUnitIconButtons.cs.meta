@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 458d50c5c0824f83b81344d50fa39f84
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - unitSet: {fileID: 11400000, guid: 8ded65e67793240b3bc2fa109911454d, type: 2}
+  - spawnUnitEventChannel: {fileID: 11400000, guid: 644f2c340fa2f421aba83c25bb869833, type: 2}
+  - playerAgent: {fileID: 11400000, guid: 7b16f5d15767a47e480691e0c1673d38, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

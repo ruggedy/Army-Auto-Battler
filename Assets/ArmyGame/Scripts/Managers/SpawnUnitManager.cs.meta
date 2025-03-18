@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 334cd8061a7546e0bdb76b90f3d395ea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spawnUnitManagerChannel: {fileID: 11400000, guid: 644f2c340fa2f421aba83c25bb869833, type: 2}
+  - agentManagerChannel: {fileID: 11400000, guid: 2acdd95f86b404d0e9f114a564fbb805, type: 2}
+  - unitSetSo: {fileID: 11400000, guid: 8ded65e67793240b3bc2fa109911454d, type: 2}
+  - mapZones: {fileID: 11400000, guid: 7c0ce215be3e6422f9b86a8311c29788, type: 2}
+  - enemyAgentEnum: {fileID: 11400000, guid: 134430f230b6d4ac2b1d30174ab08b6b, type: 2}
+  - playerAgentEnum: {fileID: 11400000, guid: 7b16f5d15767a47e480691e0c1673d38, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
